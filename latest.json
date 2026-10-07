@@ -1,7 +1,8 @@
 {
-  "version": "1.5.0",
-  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.0.zip",
+  "version": "1.5.1",
+  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.1.zip",
+  "checksum": "95214da7509ad181b999ba436b13c969246f1f31fd58898bb6b2170165828dd7",
   "nativeId": "40471e1458ec",
-  "notes": "A calmer, simpler look throughout",
-  "publishedAt": "2026-10-07T20:19:32.484Z"
+  "notes": "Updates now install properly",
+  "publishedAt": "2026-10-07T20:35:20.815Z"
 }
