@@ -1,8 +1,8 @@
 {
-  "version": "1.5.3",
-  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.3.zip",
-  "checksum": "e6982cf3fbd37c115896253f8d3471919041e360d25a86f1227af802fb276d60",
+  "version": "1.5.4",
+  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.4.zip",
+  "checksum": "a0afd8998326287654659e3134a75b4cdaa01a68c7503ed9b582b3fb4a145ef0",
   "nativeId": "40471e1458ec",
-  "notes": "Clearer cooking voices",
-  "publishedAt": "2026-10-07T20:51:55.947Z"
+  "notes": "Small fixes",
+  "publishedAt": "2026-10-07T20:54:14.391Z"
 }
