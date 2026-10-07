@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.4.0.zip",
+  "version": "1.4.1",
+  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.4.1.zip",
   "nativeId": "40471e1458ec",
-  "notes": "Easier to use: welcome tour, new Add screen, simpler editor, filters",
-  "publishedAt": "2026-10-07T20:01:35.452Z"
+  "notes": "Redesigned welcome tour",
+  "publishedAt": "2026-10-07T20:06:01.887Z"
 }
