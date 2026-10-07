@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.3.1.zip",
+  "version": "1.3.2",
+  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.3.2.zip",
   "nativeId": "40471e1458ec",
-  "notes": "Instagram & Facebook imports, faster AI imports, bug fixes",
-  "publishedAt": "2026-10-07T19:23:22.660Z"
+  "notes": "The app's real fonts now load",
+  "publishedAt": "2026-10-07T19:25:18.505Z"
 }
