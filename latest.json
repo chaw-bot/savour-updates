@@ -1,8 +1,8 @@
 {
-  "version": "1.5.5",
-  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.5.zip",
-  "checksum": "e5957a401907f44ac9b9ababf3a9383ffa1ddc9bbcabe32368ecd490413812d7",
+  "version": "1.5.6",
+  "url": "https://raw.githubusercontent.com/chaw-bot/savour-updates/main/bundles/savour-1.5.6.zip",
+  "checksum": "00120a581b728e1d473e41b919a028f7c4843f29f580abca32eba8fdf186a7e3",
   "nativeId": "40471e1458ec",
-  "notes": "",
-  "publishedAt": "2026-10-10T17:53:42.848Z"
+  "notes": "Draggable kitchen assistant and bug fixes",
+  "publishedAt": "2026-10-21T14:23:23.741Z"
 }
